@@ -1,7 +1,7 @@
 {
   "name": "claude-code-skills",
   "description": "Skills for software engineering best practices",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "owner": {
     "name": "tercel",
     "url": "https://github.com/tercel"
@@ -10,7 +10,6 @@
     {
       "name": "spec-forge",
       "description": "Generate professional-grade software specifications — PRD, SRS, Technical Design, and Test Plan — based on industry standards (Google, Amazon, IEEE). Works standalone or as a full traceability chain.",
-      "version": "0.1.0",
       "source": {
         "source": "github",
         "repo": "tercel/spec-forge"
@@ -23,7 +22,6 @@
     {
       "name": "code-forge",
       "description": "Forge executable, TDD-driven implementation plans from documentation — with task breakdown, progress tracking, pause/resume, and team collaboration",
-      "version": "0.1.0",
       "source": {
         "source": "github",
         "repo": "tercel/code-forge"
