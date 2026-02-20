@@ -28,8 +28,13 @@ Or edit `~/.config/claude/config.json`:
 
 Generate professional-grade software specifications — PRD, SRS, Technical Design, and Test Plan — based on industry standards (Google, Amazon, IEEE). Works standalone or as a full traceability chain.
 
-- **Version**: 0.1.0
 - **Repository**: https://github.com/tercel/spec-forge
+
+### code-forge
+
+Forge executable, TDD-driven implementation plans from documentation — with task breakdown, progress tracking, pause/resume, and team collaboration.
+
+- **Repository**: https://github.com/tercel/code-forge
 
 ## Contributing
 
